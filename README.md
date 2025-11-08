@@ -1,4 +1,4 @@
-# SIMKAVLING
+# LulutResident
 Sistem Informasi Manajemen Kavling — aplikasi Laravel untuk pengelolaan unit rumah, pelanggan, reservasi, pembayaran, dan laporan penjualan.  
 Tujuan: mendigitalisasi manajemen data penjualan kavling secara sederhana namun fungsional untuk kebutuhan PKL.
 
